@@ -1,4 +1,4 @@
-###JAVA 语言特点
+### JAVA 语言特点
 - 跨平台（jvm编译）
 
 - 面向对象：封装，继承，多态
@@ -15,7 +15,7 @@
 
 - 安全性
 
-###JVM （java virtual machine）
+### JVM （java virtual machine）
    >JVM就是java的虚拟机，为了支持java的跨平台特性<br/>
    &#8195;class文件 ——————> JVM  ——————> 各个平台<br/>
 
