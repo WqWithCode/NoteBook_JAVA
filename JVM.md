@@ -38,13 +38,13 @@
  - java程序要执行，必须由JVM负责加载代码和校验代码，由Runtime Interpreter（运行时解释器）负责执行代码。
    java程序要执行依赖于jre。
 
-####JDK
+#### JDK
  
  - JDK即Java Development Kit，就是java开发工具包。<br/>
  
  - JDK比JRE多了Javac和java等众多命令。
    
-###JAVA相关命令
+### JAVA相关命令
 
 - 编译命令
 
@@ -63,7 +63,7 @@
 - 生成API文档命令：<BR/>
  `javadoc XXX.java`
    
-###[java帮助文档](https://www.oracle.com/technetwork/java/javaee/documentation/javaee7sdk-install-1957708.html)
+### [java帮助文档](https://www.oracle.com/technetwork/java/javaee/documentation/javaee7sdk-install-1957708.html)
    
    
     
